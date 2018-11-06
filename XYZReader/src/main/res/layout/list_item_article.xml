@@ -6,7 +6,7 @@
     android:clickable="true"
     android:focusable="true"
     android:foreground="?selectableItemBackground"
-    app:cardElevation="0dp"
+    app:cardElevation="1dp"
     app:cardPreventCornerOverlap="true"
     app:cardBackgroundColor="@android:color/transparent">
 
